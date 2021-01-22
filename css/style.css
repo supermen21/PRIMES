@@ -1,0 +1,56 @@
+.navbar--middle {
+  display: none;
+  margin-left: 26%;
+  position: fixed;
+  display: none;
+  & a {
+    display: inline-flex;
+    padding: 8px 8px 8px 32px;
+  }
+}
+
+.hamburger {
+  display: inline-block;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+/* FISH */
+.navbar--fish {
+  display: none;
+  margin-left: 26%;
+  position: fixed;
+  display: none;
+}
+
+.navbar--fish a {
+  display: inline-flex;
+  padding: 6px 6px 6px 24px;
+}
+
+.fish {
+  display: inline-block;
+  margin-top: 15px;
+  cursor: pointer;
+}
+/* END FISH */
+
+/* FRUITS */
+.navbar--fruits {
+  display: none;
+  margin-left: 26%;
+  position: fixed;
+  display: none;
+}
+
+.navbar--fruits a {
+  display: inline-flex;
+  padding: 6px 6px 6px 24px;
+}
+
+.fruits {
+  display: inline-block;
+  margin-top: 15px;
+  cursor: pointer;
+}
+/* END FRUITS */

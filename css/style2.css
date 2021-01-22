@@ -1,0 +1,108 @@
+
+/* table{
+    border-spacing: 0px !important; 
+    table-layout: fixed !important; 
+    margin-left: auto !important; 
+    margin-right: auto !important; 
+  }
+td{ 
+	border: 1px solid black !important; 
+    word-break: break-all !important; 
+} */
+
+.text-head{
+	font-size: 1.0em;
+	color: #666666;
+	font-family: 'Calibri', sans-serif;
+}
+
+.text-sm{
+	font-size: small;
+	color: #666666;
+	font-family: 'Calibri', sans-serif;
+}
+
+/* .text-sm:hover {
+   color: white;
+ }*/
+
+.text-small{
+	font-size: 1.0rem;
+}
+.text-medium{
+	font-size: medium;
+	color: #666666;
+	font-family: 'RobCalibrioto', sans-serif;
+}	
+.text-xxs{
+	font-size: 0.1em;
+	color: #666666;
+	font-family: 'Calibri', sans-serif;
+}
+.text-dk-grey{
+	color: #666666;
+}
+.text-lt-grey{
+	color: #999999;
+}
+.text-lg{
+	font-size: 1.5em;
+	color: #666666;
+	font-family: 'Calibri', sans-serif;
+}
+
+.border-btm{
+	border: none;
+	border-bottom: 1px solid #999;
+	border-radius: none;
+}
+.bg-sidebar{
+	background-color: #0f4c75;
+	color: white;
+}
+.bg-menu{
+	background-color: #f4f6ff;
+	color: white;
+}
+.btn-table{
+	padding:.375rem .75rem;
+	border: 10px;
+	height: 500px;
+
+}
+.bg-label {
+	background-color: #dcdcdc;
+	color:#626262;
+}
+
+.custom-font{
+	font-family: 'Calibri';
+	color:#22576d;
+}
+.bg-accent{
+	background-color: #22576d;
+	color: white;
+}
+.bg-gradient-custom-primary {
+  background-color: #1f4068;
+  background-image: linear-gradient(150deg, #1f4068 40%, #32e0c4 100%);
+  background-size: cover;
+}
+
+.bg-gradient-custom-accent {
+	background-color: #073d67;
+	background-image: linear-gradient(150deg, #49657b 40%, #32e0c4 100%);
+	background-size: cover;
+  }
+#other-text{
+	display: none;
+  }
+#td{
+	
+	width: 150px; 
+	border: 1px solid #000000;
+  }
+  .bg-inter{
+	background-color: #008891;
+	color: white;
+}
